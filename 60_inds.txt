@@ -1,0 +1,1 @@
+/home/kmt/populationgenomics/data/relate_data/60_inds.txt
